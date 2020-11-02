@@ -21,6 +21,9 @@ Some of my work in PHP:
 <a href="https://github.com/JanisSt/codelex-blog-1">
 <img border="0" alt = "RPSLS" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30" >Current project, im workign on and learning from</a>
 <br>
+<a href="https://github.com/JanisSt/Narvesen">
+<img border="0" alt = "Narvesen" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30" >Small project</a>
+
 
 
 
