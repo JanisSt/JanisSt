@@ -12,7 +12,7 @@ You can reach me in:
  
 
 
-Her is some of my work in PHP: 
+Some of my work in PHP: 
 
 <br>
 <a href="https://github.com/JanisSt/RPSLS">
