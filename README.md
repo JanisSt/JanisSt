@@ -7,7 +7,7 @@ Welcome to my GitHub profile</h2>
 I'm PHP a Software Engineer  from Latvia, seeking to develop my skills as a Programmer.
 
 You can reach me in: 
-<a href="www.linkedin.com/in/janis-stals">
+<a href="https://www.linkedin.com/in/janis-stals">
 <img border="0" alt="W3Schools" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" height="30"></a>
  
 
