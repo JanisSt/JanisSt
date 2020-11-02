@@ -16,7 +16,14 @@ Some of my work in PHP:
 
 <br>
 <a href="https://github.com/JanisSt/RPSLS">
-<img border="0" alt = "RPSLS" src="https://www.seekpng.com/png/small/207-2077427_rock-paper-scissors-lizard-spock-rock-paper-scissors.png" width="30" height="30" >ROCK, PAPER, SCISSORS, LIZARD, SPOCK, NUKE is a browser-based game made with OOP <br>
-</a>
+<img border="0" alt = "RPSLS" src="https://www.seekpng.com/png/small/207-2077427_rock-paper-scissors-lizard-spock-rock-paper-scissors.png" width="30" height="30" >ROCK, PAPER, SCISSORS, LIZARD, SPOCK. </a>
+<br>
+<a href="https://github.com/JanisSt/codelex-blog-1">
+<img border="0" alt = "RPSLS" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30" >Current project, im workign on and learning from</a>
+<br>
+
+
+
+
 
 
