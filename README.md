@@ -4,7 +4,7 @@
 Welcome to my GitHub profile</h2>
 
 
-I'm PHP a Software Engineer  from Latvia, seeking to develop my skills as a Programmer.
+I'm PHP a Software Engineer from Latvia, seeking to develop my skills as a Programmer.
 
 You can reach me in: 
 <a href="https://www.linkedin.com/in/janis-stals">
@@ -19,10 +19,10 @@ Some of my work in PHP:
 <img border="0" alt = "RPSLS" src="https://www.seekpng.com/png/small/207-2077427_rock-paper-scissors-lizard-spock-rock-paper-scissors.png" width="30" height="30" >ROCK, PAPER, SCISSORS, LIZARD, SPOCK. </a>
 <br>
 <a href="https://github.com/JanisSt/codelex-blog-1">
-<img border="0" alt = "RPSLS" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30" >Current project, im workign on and learning from</a>
+<img border="0" alt = "RPSLS" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30" >Current project, im workign on and learning about OOP aproach</a>
 <br>
 <a href="https://github.com/JanisSt/Narvesen">
-<img border="0" alt = "Narvesen" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30" >Small project</a>
+<img border="0" alt = "Narvesen" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30" >Small shop project with items in stock and costumers</a>
 
 
 
